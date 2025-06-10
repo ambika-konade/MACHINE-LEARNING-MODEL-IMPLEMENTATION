@@ -39,3 +39,7 @@ Personalized feed recommendations on Facebook and Instagram from billions of int
 3. Automate Repetitive Tasks
 ML automates time-consuming, repetitive tasks with high accuracy hence reducing manual work and errors.
 
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/a2d85b15-a2f9-49cf-8c16-8972c7f34eaf)
+
+![Image](https://github.com/user-attachments/assets/6493e1bf-e7ff-4ff3-b074-2bcc19ba2a63)
